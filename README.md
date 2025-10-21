@@ -50,4 +50,9 @@ Freelance Frontend Developer | React & Tailwind Specialist
 
 ---
 
+## ✨ Preview
+![Preview](screenshots/preview.png)
+
+---
+
 > ⚠ Note: This is a live production project built for a client.
